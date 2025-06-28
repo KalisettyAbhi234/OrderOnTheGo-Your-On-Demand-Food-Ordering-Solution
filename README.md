@@ -129,6 +129,17 @@ Feel free to fork the repository and submit pull requests to improve the platfor
 
 ---
 
+---
+
+## 👥 Team Members
+
+This project is developed by the following team members:
+
+- [**Abhinaya Kalisetty**](https://github.com/KalisettyAbhi234) – Backend Developer, Database Developer  
+- [**Ojeswari Devi Kilari**](https://github.com/teja-github-username) – Frontend Developer  
+- [**Harini Kanna**](https://github.com/kiran-github-username) – UI/UX Designer  
+  
+
 
 
 ## ✨ Acknowledgments
