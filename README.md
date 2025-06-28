@@ -20,7 +20,6 @@ client/
 │   │   ├── Register.jsx
 │   │   └── Restaurants.jsx
 │   ├── context/
-│   ├── images/
 │   ├── pages/
 │   │   ├── admin/
 │   │   │   ├── Admin.jsx
@@ -129,7 +128,7 @@ Feel free to fork the repository and submit pull requests to improve the platfor
 
 ---
 
----
+
 
 ## 👥 Team Members
 
@@ -140,7 +139,7 @@ This project is developed by the following team members:
 - [**Harini Kanna**](https://github.com/kiran-github-username) – UI/UX Designer  
   
 
-
+---
 
 ## ✨ Acknowledgments
 
