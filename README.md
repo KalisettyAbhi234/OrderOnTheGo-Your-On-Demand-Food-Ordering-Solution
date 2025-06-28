@@ -86,8 +86,8 @@ client/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/OrderOnTheGo.git
-   cd OrderOnTheGo
+   git clone https://github.com/KalisettyAbhi234/OrderOnTheGo-Your-On-Demand-Food-Ordering-Solution.git
+   cd OrderOnTheGo-Your-On-Demand-Food-Ordering-Solution
    ```
 
 2. Install client dependencies:
@@ -129,11 +129,7 @@ Feel free to fork the repository and submit pull requests to improve the platfor
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License.
-
----
 
 ## ✨ Acknowledgments
 
